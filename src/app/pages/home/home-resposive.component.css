@@ -1,0 +1,17 @@
+@media screen and (max-width:600px) {
+
+.container__artigos{
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+header{
+  display: flex;
+  justify-content: center;
+}
+.artigos__main{
+  margin: 0;
+  padding: 0;
+}
+}

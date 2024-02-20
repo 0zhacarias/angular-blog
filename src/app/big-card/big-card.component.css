@@ -1,0 +1,27 @@
+.container_big-card{
+/* border:  solid white 2px; */
+margin-left: 20px;
+margin-right: 20px;
+width: 450px;
+height: 450px;
+display:flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+
+}
+
+.big-cadd__foto >img{
+  width: 100%;
+  min-width: 450px;
+
+}
+.big-card__title > h1{
+  font-size: 20px;
+  margin-top: 10px;
+
+}
+.big-card__descricao > h5{
+color: grey;
+margin-top: 5px;
+}
