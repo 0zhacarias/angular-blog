@@ -3,7 +3,7 @@
 margin-left: 20px;
 margin-right: 20px;
 width: 450px;
-height: 450px;
+height: 300px;
 display:flex;
 flex-direction: column;
 align-items: flex-start;
@@ -13,7 +13,8 @@ justify-content: flex-start;
 
 .big-cadd__foto >img{
   width: 100%;
-  min-width: 450px;
+  min-height: 90px;
+  min-width: 1px;
 
 }
 .big-card__title > h1{
