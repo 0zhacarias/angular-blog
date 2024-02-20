@@ -10,6 +10,8 @@ export class SmalCardComponent implements OnInit {
   fotoCapa:string=""
 @Input()
   titulo:string=""
+  @Input()
+  Id:string="0"
   constructor() { }
 
   ngOnInit(): void {

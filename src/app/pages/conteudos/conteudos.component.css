@@ -1,0 +1,31 @@
+.container__conteudo{
+  border:1px solid white;
+  width: 100%;
+  height: 100%;
+  margin-top: 20px;
+  display: flex;
+flex-direction: column;
+align-items: center;
+}
+/* .conteudo__capa{
+display: flex;
+flex-direction: column;
+align-items: center;
+} */
+.conteudo__capa > img{
+border: 5px solid rgb(144,144,144, green, blue);
+border-radius: 5px;
+width: 400px;
+min-width: 400px;
+height: 300px;
+}
+/* .conteudo_titulo{
+
+} */
+.conteudo_titulo > h1{
+
+}
+.conteudo__descricao {
+color: grey;
+margin-top: 15px;
+}

@@ -12,6 +12,8 @@ fotoCapa:string=""
 tituloCartao:string=""
 @Input()
 descricacaoCartao:string=""
+@Input()
+Id:string="0"
   constructor() { }
 
   ngOnInit(): void {
